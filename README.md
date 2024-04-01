@@ -19,7 +19,7 @@ The Google Colab notebook included in this repository contains the code and docu
 
 # Results
 
-Currently, the trained model achieved an accuracy score of 66%. 
+Currently, the trained model achieved a ROC AUC score of 66%. 
 
 <img width="609" alt="Screenshot 2024-04-01 at 6 05 40 PM" src="https://github.com/Ph1so/Binary-Classification-with-a-Software-Defects-Dataset/assets/56458094/be6b4ab2-c749-41a1-ad88-02ec81ce0e23">
 
